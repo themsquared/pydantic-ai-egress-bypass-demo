@@ -1,5 +1,7 @@
 # pydantic-ai egress bypass demo
 
+> 📖 **Read the write-up:** [Pydantic AI's DNS-Rebind Bypass of Its Egress Allowlist](https://webofmike.com/pydantic-ai-egress-dns-rebind/)
+
 Reproduces the shape of two security advisories pydantic AI disclosed
 together on 2026-11-04, in `pydantic-ai` v2.66.0 / v1.107.10 /
 `pydantic-ai-harness` 0.66.0:
